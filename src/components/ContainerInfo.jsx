@@ -14,10 +14,6 @@ const ContainerInfo = ({quote, handleNewQuote}) => {
 
         <Button handleNewQuote={handleNewQuote} />
 
-        <div className='container_planet'>
-          <img src="/espacio/Group.png" alt=""/>
-        </div>
-
         <article className='containerInfo__author'>
           <h4>Fuente: {quote.author}</h4>
         </article>

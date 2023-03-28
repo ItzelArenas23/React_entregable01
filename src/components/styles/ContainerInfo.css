@@ -40,14 +40,3 @@
     transform: translateX(-50%)
 }
 
-.container_planet {
-    width: 100%;
-    height: auto;
-    max-height: 450px;
-    display: flex;
-    flex-wrap: nowrap;
-    position: absolute;
-    bottom: -150px;
-    opacity: 80%;
-    transform: scale(0.5);
- }
